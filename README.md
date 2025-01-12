@@ -1,7 +1,7 @@
 # pirate-zombies
 
 <p align="center">
-  <a href="https://mertcanyasar.itch.io/pirate-zombies">
+  <a href="https://mertcanyasar.itch.io/pirate-zombies" target="_blank">
     <img src="https://github.com/user-attachments/assets/ca947435-5d1e-44e3-b3be-f65745cb33d8" alt="Pirate Zombies Download Link"></img>
   </a>
 </p>
