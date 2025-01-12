@@ -18,3 +18,5 @@ https://mertcanyasar.itch.io/pirate-zombies
 ![2](https://github.com/user-attachments/assets/f885a1ec-20d1-4016-84c7-4ed451ab3bc7)
 
 ![1](https://github.com/user-attachments/assets/e05e44b7-1b25-4c37-ae61-9c817340d489)
+
+![image](https://github.com/user-attachments/assets/59130ff2-cb19-415b-9e59-1b97186a5b2c)
