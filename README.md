@@ -1,4 +1,4 @@
-# pirate-zombies-unreal-engine-game
+# pirate-zombies-an-unreal-engine-mini-game
 
 <p align="center">
   <a href="https://mertcanyasar.itch.io/pirate-zombies" target="_blank">
